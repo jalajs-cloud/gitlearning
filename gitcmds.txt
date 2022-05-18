@@ -1,0 +1,5 @@
+git status //To check the status of a file
+git add .  //To add all the files at once
+git add filename //To add a particular file
+git commit --m "message" //commit means takes a screenshot of a file
+git push //To push the all changes done in a file
