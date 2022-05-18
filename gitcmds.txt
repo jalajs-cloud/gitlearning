@@ -3,3 +3,5 @@ git add .  //To add all the files at once
 git add filename //To add a particular file
 git commit --m "message" //commit means takes a screenshot of a file
 git push //To push the all changes done in a file
+git config --global user.name //tells you the name of the user
+git config --global user.email //tells you the email of the user
